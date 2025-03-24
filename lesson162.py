@@ -15,6 +15,13 @@ print(math.factorial(4))
 #print(math.factorial(x=4))
 print('-'*80)
 
+print(math.pi)
+print(math.e)
+print(math.gcd(15, 25))
+
+
+print('-'*80)
+
 
 
 
